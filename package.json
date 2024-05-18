@@ -54,5 +54,8 @@
     "test": "rollup -c rollup-tests.config.js && karma start tests/karma.config.cjs --single-run",
     "typecheck": "tsc --build src/tsconfig.json"
   },
-  "packageManager": "yarn@3.6.1"
+  "packageManager": "yarn@3.6.1",
+  "resolutions": {
+    "hypothesis": "portal:/home/dave/repos/hypothesis-extension/client"
+  }
 }

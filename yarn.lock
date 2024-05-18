@@ -6898,12 +6898,11 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"hypothesis@npm:^1.1494.0":
-  version: 1.1494.0
-  resolution: "hypothesis@npm:1.1494.0"
-  checksum: 6901e358f0da9ade4fddf392d47295ab7764aca42f45c0a9a3c9c4901e57b25713020314fe85d572ce0ad9cf79791d5224f7a429b0aa5859237f65a10ebbee93
+"hypothesis@portal:/home/dave/repos/hypothesis-extension/client::locator=hypothesis-browser-extension%40workspace%3A.":
+  version: 0.0.0-use.local
+  resolution: "hypothesis@portal:/home/dave/repos/hypothesis-extension/client::locator=hypothesis-browser-extension%40workspace%3A."
   languageName: node
-  linkType: hard
+  linkType: soft
 
 "iconv-lite@npm:0.4.24":
   version: 0.4.24
